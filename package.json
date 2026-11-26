@@ -1,0 +1,1 @@
+{"description":"One sentence: an alien tourist gives Earth a one-star review while complimenting the noodles, for make.fun","license":"MIT","name":"makefun-food-one-star-20261126","private":true,"scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
